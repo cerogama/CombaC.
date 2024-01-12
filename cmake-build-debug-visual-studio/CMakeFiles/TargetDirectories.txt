@@ -1,0 +1,3 @@
+C:/Users/flete/Documents/CombaCompleta/cmake-build-debug-visual-studio/CMakeFiles/CombaCompleta.dir
+C:/Users/flete/Documents/CombaCompleta/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/flete/Documents/CombaCompleta/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

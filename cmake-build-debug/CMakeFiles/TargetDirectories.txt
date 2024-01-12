@@ -1,0 +1,3 @@
+C:/Users/Alumnos/Desktop/SimuladoresDeFisica/CombaCompleta/cmake-build-debug/CMakeFiles/CombaCompleta.dir
+C:/Users/Alumnos/Desktop/SimuladoresDeFisica/CombaCompleta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alumnos/Desktop/SimuladoresDeFisica/CombaCompleta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
